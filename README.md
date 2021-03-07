@@ -30,10 +30,17 @@ The dataset is in the made of three files, stored in the `/data` folder:
 A better explanation of the files structure is in the notebook
 
 ### Other files
-All analysis are in the `Starbucks_Capstone_notebook.ipynb` notebook
+All analysis are in the `Starbucks_Capstone_notebook.ipynb` notebook; 
+There is a description of the project and data, and the main steps of the analysis are:
+- Load data & inspection
+- Data cleaning
+- Statistical analysis
+- ML classification & tuning
+- ML regression (only a test)
+
 
 ## Results<a name="results"></a>
-The main findings of the code can be found at the post available [here](link).
+The main findings of the code can be found at the post available [here](https://sawy89.medium.com/do-promotional-offers-can-buy-you-a-coffee-49398f6079fe).
 
 ## Acknowledgements<a name="final"></a>
 
