@@ -63,12 +63,10 @@ There is a description of the project and data, and the main steps of the analys
 - ML classification & tuning
 - ML regression (only a test)
 
-
 ## Results<a name="results"></a>
 The main findings of the code can be found at the post available [here](https://sawy89.medium.com/do-promotional-offers-can-buy-you-a-coffee-49398f6079fe).
 
 ## Acknowledgements<a name="final"></a>
-
 Must give credit to Starbucks and Udacity for the data, and the interesting subject
 
 
